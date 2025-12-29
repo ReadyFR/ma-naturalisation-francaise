@@ -1,8 +1,14 @@
+---
+title: Politique de Confidentialité
+layout: template
+filename: index.md
+---
+
 # Politique de Confidentialité
 
 **Dernière mise à jour :** 29 Décembre 2025
 
-L'application **"Ma naturalisation Française"** (ci-après dénommée "l'Application") est développée par **[VOTRE NOM OU NOM DE L'ENTREPRISE]** (ci-après dénommé "le Développeur", "nous" ou "notre"). Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation de renseignements personnels si quelqu'un décide d'utiliser notre Service.
+L'application **"Ma naturalisation Française"** (ci-après dénommée "l'Application") est développée par Loïck Le Digabel (ci-après dénommé "le Développeur", "nous" ou "notre"). Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation de renseignements personnels si quelqu'un décide d'utiliser notre Service.
 
 Si vous choisissez d'utiliser notre Service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique.
 
