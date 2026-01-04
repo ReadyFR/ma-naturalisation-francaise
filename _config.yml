@@ -1,0 +1,21 @@
+title: Ma Naturalisation Française
+description: Application mobile pour accompagner votre démarche de naturalisation française
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Configuration du thème minima
+minima:
+  social_links:
+    email: loick.ledigabel@gmail.com
+
+# Configuration du site
+url: "https://loickledigabel.github.io"
+baseurl: "/ma-naturalisation-francaise"
+
+# Navigation
+header_pages:
+  - index.md
+  - privacy/index.md
+  - support/index.md
+
