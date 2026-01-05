@@ -93,10 +93,6 @@ Nous nous réservons le droit de résilier ou de suspendre votre accès à l'App
 
 Ces Conditions d'Utilisation sont régies par les lois françaises. Tout litige relatif à ces conditions sera soumis à la juridiction exclusive des tribunaux français.
 
-## Contact
-
-Pour toute question concernant ces Conditions d'Utilisation, vous pouvez nous contacter à : loick.ledigabel@gmail.com
-
 ## Modifications des Conditions
 
 Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. Les modifications entrent en vigueur dès leur publication sur cette page. Il est de votre responsabilité de consulter régulièrement ces conditions.
