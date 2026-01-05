@@ -23,6 +23,7 @@ Bienvenue sur le site officiel de l'application **"Ma Naturalisation Française"
 ## Informations légales
 
 * [Politique de Confidentialité]({{ '/privacy/' | relative_url }})
+* [Conditions d'Utilisation]({{ '/terms/' | relative_url }})
 * [Support]({{ '/support/' | relative_url }})
 
 ---
