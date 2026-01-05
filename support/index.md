@@ -11,9 +11,7 @@ Bienvenue sur la page de support de l'application **"Ma Naturalisation Français
 
 Pour toute question, problème ou suggestion concernant l'application, vous pouvez nous contacter :
 
-**Email :** loick.ledigabel@gmail.com
-
-**Développeur :** Loïck Le Digabel
+**Email :** monappnaturalisation@gmail.com
 
 ## Assistance
 
